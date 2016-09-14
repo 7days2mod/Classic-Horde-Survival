@@ -3070,7 +3070,7 @@ chiselDesc,items,Item Tool,,"This tool is required in the Cement Mixer for craft
 handSaw,items,Item Tool,,Handsaw,,
 handSawDesc,items,Item Tool,,"This tool is required in the workbench for crafting many wood-related recipes.",,
 bulletTumbler,items,Item Tool,,Bullet Tumbler,,
-bulletTumblerDesc,items,Item Tool,,"This tool can be used within the Armory to craft and convert ammunition.",,
+bulletTumblerDesc,items,Item Tool,,"This tool can be used within the workbench to craft and convert ammunition.",,
 
 
 9mmBulletCasing,items,Item Tool,,9mm Bullet Casing,,

@@ -1190,7 +1190,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 		<property name="Block_range" value="3" />
 		<property name="Sphere" value="0.1" />
 		<property name="Sound_start" value="swoosh" />
-		<property name="Stamina_usage" value="10" />
+		<property name="Stamina_usage" value="5" />
 		<property name="DamageBonus.head" value="15" />
 		<property name="DamageBonus.body" value="0.6" />
 		<property name="DamageBonus.glass" value="25" />
@@ -1261,7 +1261,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 		<property name="Sphere" value="0.1" />
 		<property name="Block_range" value="4" />
 		<property name="Sound_start" value="swoosh" />
-		<property name="Stamina_usage" value="13" />
+		<property name="Stamina_usage" value="10" />
 		<property name="DamageBonus.wood" value="1" />
 		<property name="DamageBonus.head" value="100" />
 		<property name="DamageBonus.body" value="0.6" />
@@ -7285,7 +7285,7 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 </item>
 
 	<!-- CHS Starts -->
-	<item id="1599" name="CHS Version 1.5">
+	<item id="1599" name="CHS Version 1.6">
 		<property name="CustomIcon" value="Bounty_Hat" />
 		<property name="Meshfile" value="Items/Misc/paper" />
 		<property name="HoldType" value="21" />
@@ -9625,12 +9625,12 @@ Item ID ranges:       Master items (if applicable) are listed at the start of th
 	</property>
 	<property class="Action0">
 		<property name="Class" value="Melee" />
-		<property name="Delay" value="1.0" />
+		<property name="Delay" value="1.5" />
 		<property name="Range" value="2.4" />
 		<property name="Sphere" value="0.1" />
 		<property name="Block_range" value="4" />
 		<property name="Sound_start" value="swoosh" />
-		<property name="Stamina_usage" value="4" />
+		<property name="Stamina_usage" value="12" />
 		<property name="DamageBonus.glass" value="25" />
 		<property name="DamageBonus.head" value="100" />
 		<property name="DamageBonus.body" value="0.6" />

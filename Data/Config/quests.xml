@@ -163,7 +163,7 @@
 		repeatable="true" category_key="challenge" offer_key="challenge_imalumberjackandimokay_offer" difficulty="hard">
 		
 		<objective type="Time" value="900" optional="true" />
-		<objective type="ZombieKill" id="snowZombie" value="3" />
+		<objective type="ZombieKill" id="snowzombie" value="3" />
 		
 		<requirement type="Group" id="requirementGroupFireaxe" value="OR">
 			<requirement type="Holding" id="fireaxeIron" />
@@ -317,19 +317,19 @@
 	
 	<quest id="challenge_takingnote" name="Taking Notes 1/3" subtitle="Taking Notes" description="Go out and survive by killing some zombies and take note of your experiences." icon="ui_game_symbol_zombie" 
 		repeatable="true" category_key="challenge" offer="Kill 10 zombies." difficulty="easy">
-		<objective type="ZombieKill" value="10" />
+		<objective type="ZombieKill" value="15" />
 		<reward type="SkillPoints" value="1" />
 		<reward type="Quest" id="challenge_takingnote2" />
 	</quest>
 	<quest id="challenge_takingnote2" name="Taking Notes 2/3" subtitle="Taking Notes" description="Go out and survive by killing some zombies and take note of your experiences." icon="ui_game_symbol_zombie" 
 		repeatable="true" category_key="challenge" offer="Kill 10 zombies." difficulty="easy">
-		<objective type="ZombieKill" value="10" />
+		<objective type="ZombieKill" value="15" />
 		<reward type="SkillPoints" value="1" />
 		<reward type="Quest" id="challenge_takingnote3" />
 	</quest>
 	<quest id="challenge_takingnote3" name="Taking Notes 3/3" subtitle="Taking Notes" description="Go out and survive by killing some zombies and take note of your experiences." icon="ui_game_symbol_zombie" 
 		repeatable="true" category_key="challenge" offer="Kill 10 zombies." difficulty="easy">
-		<objective type="ZombieKill" value="10" />
+		<objective type="ZombieKill" value="15" />
 		<reward type="SkillPoints" value="1" />
 	</quest>
 
