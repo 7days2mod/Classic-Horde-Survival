@@ -10,4 +10,5 @@
     <property name="StaticSpawner.Class" value="SpawnCabin" />
     <property name="StaticSpawner.Size" value="32,2,32" />
     <property name="StaticSpawner.Trigger" value="160" />
+    <property name="TraderArea" value="False" />
 </prefab>
