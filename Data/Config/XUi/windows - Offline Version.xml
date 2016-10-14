@@ -166,7 +166,7 @@
 			<sprite depth="2" name="windowIcon" style="icon22px" pos="85,-55" sprite="ui_game_symbol_thirst"/>
 	<!-- Displays Zombie KillS -->	
 	<sprite depth="3" name="icon" style="icon32px" pos="115, -28" sprite="ui_game_symbol_zombie" />
-	<label depth="4" name="TextContent" pos="155,-28" font_size="30" color="[tan]" foregroundlayer="true" text="{PlayerZombieKills}[-]" effect="outline" upper_case="true"  />
+	<label depth="4" name="TextContent" pos="155,-28" font_size="30" color="[tan]" foregroundlayer="true" text="{playerzombiekills}[-]" effect="outline" upper_case="true"  />
 	</window>
   <!-- Window that displays Player Coordinates and Bedroll Coordinates -->
 	<window name="mapCoordsHUD" width="600" height="44" pos="-151,-77" anchor="CenterTop" controller="MapArea">
