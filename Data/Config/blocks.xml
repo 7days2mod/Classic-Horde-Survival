@@ -3108,7 +3108,7 @@ group desc for stuff like metal siding
 	<property name="Group" value="Building" />
 	<property name="EconomicValue" value="300" />
 	<property class="UpgradeBlock">
-		<property name="ToBlock" value="cntDeskSafeInsecure" />
+		<property name="ToBlock" value="cntWallSafeInsecure" />
 		<property name="Item" value="Lockpick" />
 		<property name="ItemCount" value="1" />
 		<property name="UpgradeHitCount" value="25" />
@@ -5479,7 +5479,7 @@ kind of free
 	<drop event="Fall" name="scrapMetalPile" count="1" prob=".75" stick_chance="1" />
 	<property name="EconomicValue" value="690" />
 	<property class="UpgradeBlock">
-		<property name="ToBlock" value="cntDeskSafeInsecure" />
+		<property name="ToBlock" value="cntGunSafeInsecure" />
 		<property name="Item" value="Lockpick" />
 		<property name="ItemCount" value="1" />
 		<property name="UpgradeHitCount" value="25" />
