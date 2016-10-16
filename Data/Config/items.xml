@@ -11841,32 +11841,11 @@ which does not exist, yet. -->
 	<property name="QuestGiven" value="challenge_deathdouspart" />
 	</property>
 </item>
-<item id="2143" name="challengeFamilyReunion">
-	<property name="Extends" value="challengeQuestMaster" />
-	<property name="CustomIconTint" value="781B8F" />
-	<property class="Action1">
-	<property name="QuestGiven" value="challenge_familyreunion" />
-	</property>
-</item>
-<item id="2144" name="challengeBookworm">
-	<property name="Extends" value="challengeQuestMaster" />
-	<property name="CustomIconTint" value="781B8F" />
-	<property class="Action1">
-	<property name="QuestGiven" value="challenge_bookworm" />
-	</property>
-</item>
 <item id="2145" name="challengeJock">
 	<property name="Extends" value="challengeQuestMaster" />
 	<property name="CustomIconTint" value="781B8F" />
 	<property class="Action1">
 	<property name="QuestGiven" value="challenge_jock" />
-	</property>
-</item>
-<item id="2146" name="challengeReaper">
-	<property name="Extends" value="challengeQuestMaster" />
-	<property name="CustomIconTint" value="781B8F" />
-	<property class="Action1">
-	<property name="QuestGiven" value="challenge_reaper" />
 	</property>
 </item>
 <item id="2147" name="challengeWalmart">

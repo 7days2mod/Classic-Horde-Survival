@@ -61,14 +61,12 @@
 		<entity name="ZombieRavager" />
 		<entity name="ZombieKenny" />
 		<entity name="ZombieTrucker" />
-		<entity name="ZombieDan" />
+		
 		<entity name="ZombieSurvivorMale" />
-		<entity name="ZombieSurvivorFemale" />
-		<entity name="ZombieJane" />
 		<entity name="ZombieClarice" />
-		<entity name="ZombieBigBitch" />
+		
         <entity name="ZombieInmate" />
-        <entity name="ZombieInmateBlack" />
+        
 		<entity name="ZombieRanger" />
 	</entitygroup>
 	
@@ -127,7 +125,7 @@
 		<entity name="burntzombie2" />
 		<entity name="burntzombie3" />
 		<entity name="burntzombie4" />
-		<entity name="ZombieCharred" />
+		
 
 		<entity name="zombieNurse" />
 		<entity name="zombieNurse2" />
@@ -137,18 +135,17 @@
 		<entity name="ZombieRavager" />
 		<entity name="ZombieKenny" />
 		<entity name="ZombieTrucker" />
-		<entity name="ZombieDan" />
+		
 		<entity name="ZombieSurvivorMale" />
-		<entity name="ZombieSurvivorFemale" />
-		<entity name="ZombieJane" />
+
 		<entity name="ZombieClarice" />
-		<entity name="ZombieBigBitch" />
+		
         <entity name="ZombieInmate" />
-        <entity name="ZombieInmateBlack" />
+        
 		<entity name="ZombieVoodooMale" />
-		<entity name="ZombieVoodooFemale" />
+		
 		<entity name="ZombieRanger" />
-		<entity name="ZombieRaveReaper" />
+		
 	</entitygroup>
 	
     <entitygroup name="ZombiesBurning">
@@ -156,7 +153,7 @@
 		<entity name="burntzombie2" />
 		<entity name="burntzombie3" />
 		<entity name="burntzombie4" />
-		<entity name="ZombieCharred" />
+		
     </entitygroup>
 
 	<entitygroup name="ZombiesWasteland">
@@ -223,16 +220,15 @@
 		<entity name="ZombieRavager" />
 		<entity name="ZombieKenny" />
 		<entity name="ZombieTrucker" />
-		<entity name="ZombieDan" />
+		
 		<entity name="ZombieSurvivorMale" />
-		<entity name="ZombieSurvivorFemale" />
-		<entity name="ZombieJane" />
+
 		<entity name="ZombieClarice" />
-		<entity name="ZombieBigBitch" />
+		
         <entity name="ZombieInmate" />
-        <entity name="ZombieInmateBlack" />
+        
 		<entity name="ZombieVoodooMale" />
-		<entity name="ZombieVoodooFemale" />
+		
 		<entity name="ZombieRanger" />
 	</entitygroup>	
 	
@@ -301,7 +297,7 @@
 		<entity name="burntzombie2" />
 		<entity name="burntzombie3" />
 		<entity name="burntzombie4" />
-		<entity name="ZombieCharred" />
+		
 
 		<entity name="zombieNurse" />
 		<entity name="zombieNurse2" />
@@ -311,17 +307,16 @@
 		<entity name="ZombieRavager" />
 		<entity name="ZombieKenny" />
 		<entity name="ZombieTrucker" />
-		<entity name="ZombieDan" />
+		
 		<entity name="ZombieSurvivorMale" />
-		<entity name="ZombieSurvivorFemale" />
-		<entity name="ZombieJane" />
+
 		<entity name="ZombieClarice" />
-		<entity name="ZombieBigBitch" />
+		
         <entity name="ZombieInmate" />
-        <entity name="ZombieInmateBlack" />
+        
 		<entity name="ZombieVoodooMale" />
-		<entity name="ZombieVoodooFemale" />
-		<entity name="ZombieRaveReaper" />
+		
+		
 		<entity name="ZombieRanger" />
 	</entitygroup>
 
@@ -390,7 +385,7 @@
 		<entity name="burntzombie2" />
 		<entity name="burntzombie3" />
 		<entity name="burntzombie4" />
-		<entity name="ZombieCharred" />
+		
 
 		<entity name="zombieNurse" />
 		<entity name="zombieNurse2" />
@@ -400,17 +395,16 @@
 		<entity name="ZombieRavager" />
 		<entity name="ZombieKenny" />
 		<entity name="ZombieTrucker" />
-		<entity name="ZombieDan" />
+		
 		<entity name="ZombieSurvivorMale" />
-		<entity name="ZombieSurvivorFemale" />
-		<entity name="ZombieJane" />
+
 		<entity name="ZombieClarice" />
-		<entity name="ZombieBigBitch" />
+		
         <entity name="ZombieInmate" />
-        <entity name="ZombieInmateBlack" />
+        
 		<entity name="ZombieVoodooMale" />
-		<entity name="ZombieVoodooFemale" />
-		<entity name="ZombieRaveReaper" />
+		
+		
 		<entity name="ZombieRanger" />
 	</entitygroup>
 	
@@ -479,7 +473,7 @@
 		<entity name="burntzombie2" />
 		<entity name="burntzombie3" />
 		<entity name="burntzombie4" />
-		<entity name="ZombieCharred" />
+		
 
 		<entity name="zombieNurse" />
 		<entity name="zombieNurse2" />
@@ -489,17 +483,16 @@
 		<entity name="ZombieRavager" />
 		<entity name="ZombieKenny" />
 		<entity name="ZombieTrucker" />
-		<entity name="ZombieDan" />
+		
 		<entity name="ZombieSurvivorMale" />
-		<entity name="ZombieSurvivorFemale" />
-		<entity name="ZombieJane" />
+
 		<entity name="ZombieClarice" />
-		<entity name="ZombieBigBitch" />
+		
         <entity name="ZombieInmate" />
-        <entity name="ZombieInmateBlack" />
+        
 		<entity name="ZombieVoodooMale" />
-		<entity name="ZombieVoodooFemale" />
-		<entity name="ZombieRaveReaper" />
+		
+		
 		<entity name="ZombieRanger" />
 	</entitygroup>
 
@@ -568,7 +561,7 @@
 		<entity name="burntzombie2" />
 		<entity name="burntzombie3" />
 		<entity name="burntzombie4" />
-		<entity name="ZombieCharred" />
+		
 
 		<entity name="zombieNurse" />
 		<entity name="zombieNurse2" />
@@ -578,17 +571,16 @@
 		<entity name="ZombieRavager" />
 		<entity name="ZombieKenny" />
 		<entity name="ZombieTrucker" />
-		<entity name="ZombieDan" />
+		
 		<entity name="ZombieSurvivorMale" />
-		<entity name="ZombieSurvivorFemale" />
-		<entity name="ZombieJane" />
+
 		<entity name="ZombieClarice" />
-		<entity name="ZombieBigBitch" />
+		
         <entity name="ZombieInmate" />
-        <entity name="ZombieInmateBlack" />
+        
 		<entity name="ZombieVoodooMale" />
-		<entity name="ZombieVoodooFemale" />
-		<entity name="ZombieRaveReaper" />
+		
+		
 		<entity name="ZombieRanger" />
 	</entitygroup>
 
@@ -662,14 +654,13 @@
 		<entity name="ZombieRavager" />
 		<entity name="ZombieKenny" />
 		<entity name="ZombieTrucker" />
-		<entity name="ZombieDan" />
+		
 		<entity name="ZombieSurvivorMale" />
-		<entity name="ZombieSurvivorFemale" />
-		<entity name="ZombieJane" />
+
 		<entity name="ZombieClarice" />
-		<entity name="ZombieBigBitch" />
+		
         <entity name="ZombieInmate" />
-        <entity name="ZombieInmateBlack" />
+        
 	</entitygroup>
 
 	<entitygroup name="ZombieScouts">
@@ -688,7 +679,7 @@
 		<entity name="burntzombie2" />
 		<entity name="burntzombie3" />
 		<entity name="burntzombie4" />
-		<entity name="ZombieCharred" />
+		
 	</entitygroup>
 	
 	<entitygroup name="SnowZombies">
@@ -713,7 +704,7 @@
 		<entity name="zombieferal2" />
 		<entity name="zombieferal3" />
 		<entity name="zombieferal4" />
-		<entity name="ZombieRaveReaper" />
+		
 	</entitygroup>
 
 	<entitygroup name="ZombiesCave">
@@ -797,9 +788,6 @@
 		<entity name="zombieSteve" prob="0.01" />
 		<entity name="zombieYo" prob="0.01" />
 		<entity name="zombieNurse" prob="0.01" />
-		<entity name="ZombieJane" prob="0.01" />
-		<entity name="ZombieChildMale" prob="0.01" />
-		<entity name="ZombieChildFemale" prob="0.01" />
 	</entitygroup>		
 
 	<entitygroup name="ZombieUtilityWorkerGroup">
@@ -830,8 +818,6 @@
 		<entity name="zombieMoe" />
 		<entity name="ZombieKenny" />
 		<entity name="ZombieTrucker" />
-		<entity name="ZombieDan" />
-        <entity name="ZombieJane" />
 	</entitygroup>	
 	
 	<entitygroup name="BanditGroup">
@@ -847,8 +833,7 @@
 	
 <!-- CHS Unique Prefab Groups -->
     <entitygroup name="PoliceStation">
-        <entity name="ZombieInmate" prob="0.15"/>
-        <entity name="ZombieInmateBlack" prob="0.15"/>
+        <entity name="ZombieInmate" prob="0.3"/>
 		<entity name="policestationCop" prob="0.6"/>
 		<entity name="policestationCop2" prob="0.1"/>
     </entitygroup>
@@ -860,20 +845,10 @@
     </entitygroup>
 	
     <entitygroup name="SchoolGroup">
-        <entity name="ZombieChildFemale" />
-        <entity name="ZombieChildMale" />
-        <entity name="ZombieNerd" />
-        <entity name="ZombieLibrarian" />
-        <entity name="ZombieJane" />
         <entity name="ZombieClarice" />
     </entitygroup>
 	
     <entitygroup name="BookstoreGroup">
-        <entity name="ZombieClarice" />
-        <entity name="ZombieLibrarian" />
-        <entity name="ZombieNerd" />
-        <entity name="ZombieLibrarian" />
-        <entity name="ZombieJane" />
         <entity name="ZombieClarice" />
     </entitygroup>
 	
@@ -903,16 +878,12 @@
 		<entity name="ZombieRavager" />
 		<entity name="ZombieKenny" />
 		<entity name="ZombieTrucker" />
-		<entity name="ZombieDan" />
+		
 		<entity name="ZombieSurvivorMale" />
-		<entity name="ZombieSurvivorFemale" />
-		<entity name="ZombieJane" />
+
 		<entity name="ZombieClarice" />
-		<entity name="ZombieBigBitch" />
+		
         <entity name="ZombieInmate" />
-        <entity name="ZombieInmateBlack" />
-        <entity name="ZombieChildFemale" />
-        <entity name="ZombieChildMale" />
 		<entity name="ZombieRanger" />
     </entitygroup>
 	
@@ -922,10 +893,10 @@
 		<entity name="zombieYo" />
         <entity name="zombieSteve" />
 		<entity name="spiderzombie"/>
-		<entity name="ZombieDan" />
+		
 		<entity name="ZombieVoodooMale" />
-		<entity name="ZombieVoodooFemale" />
-		<entity name="ZombieRaveReaper" />
+		
+		
     </entitygroup>
 
     <entitygroup name="GunStore">
@@ -934,8 +905,8 @@
 		<entity name="zombieMoe" />
 		<entity name="ZombieTrucker" />
         <entity name="ZombieInmate" />
-		<entity name="ZombieDan" />
-        <entity name="ZombieInmateBlack" />
+		
+        
 		<entity name="ZombieRanger" />
     </entitygroup>
 
@@ -948,14 +919,12 @@
 		<entity name="zombieArlene" />
 		<entity name="zombieArlene4" />
 		<entity name="ZombieClarice" />
-		<entity name="ZombieBigBitch" />
+		<entity name="ZombieFemaleFatUMA" />
 		<entity name="zombieDarlene" />
 		<entity name="zombieDarlene2" />
 		<entity name="zombieMarlene4" />
 		<entity name="zombieYo3" />
 		<entity name="spiderzombie"/>
-        <entity name="ZombieChildFemale" prob="0.01"/>
-        <entity name="ZombieChildMale" prob="0.01"/>
     </entitygroup>
 
     <entitygroup name="PharmacyStore">
@@ -968,7 +937,7 @@
 		<entity name="zombieArlene4" />
 		<entity name="ZombieClarice"/>
 		<entity name="ZombieInmate" />
-		<entity name="ZombieInmateBlack" />
+		
 		<entity name="ZombieRavager" />
     </entitygroup>
 	
@@ -980,7 +949,7 @@
         <entity name="zombieYo" />
         <entity name="ZombieTrucker" />
         <entity name="ZombieKenny" />
-        <entity name="ZombieDan" />
+        
 		<entity name="zombieHandyman" />
     </entitygroup>
 	
@@ -1011,7 +980,6 @@
 		<entity name="zombieCamper2" prob="0.1"/>
         <entity name="animalPig" prob="0.2"/>
         <entity name="animalStag" prob="0.1"/>
-        <entity name="ZombieSurvivorFemale" prob="0.15"/>
         <entity name="ZombieSurvivorMale" prob="0.1"/>
     </entitygroup>
 	
@@ -1019,7 +987,6 @@
         <entity name="ZombieRanger" prob="0.3"/>
         <entity name="zombieCamper" prob="0.1"/>
 		<entity name="zombieCamper2" prob="0.1"/>
-		<entity name="ZombieSurvivorFemale" prob="0.1"/>
 		<entity name="ZombieSurvivorMale" prob="0.1"/>
 		<entity name="animalChicken" prob="0.15"/>
         <entity name="animalPig" prob="0.1"/>
