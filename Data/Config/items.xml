@@ -3280,6 +3280,7 @@ which does not exist, yet. -->
 </item>
 
 <item id="357" name="clothBoots"> <!-- armorMasterClothArmor -->
+	<property name="Weight" value="10" />
 	<property name="Insulation" value="0"/>
 	<property name="Encumbrance" value="0.01" />
 	<property name="Material" value="cloth" />
@@ -3339,6 +3340,7 @@ which does not exist, yet. -->
 
 <item id="360" name="clothHat"> <!-- clothArmor -->
 	<property name="Extends" value="clothBoots" />
+	<property name="Weight" value="20" />
 	<property name="FuelValue" value="3" />
 	<property name="EquipSlot" value="Head" />
 	<property class="UMA">
@@ -5152,6 +5154,7 @@ which does not exist, yet. -->
 		<property name="Mask0" value="legs" param1="middle"/>
 		<property name="Mask1" value="legs" param1="outer"/>
 		<property name="UISlot" value="Pants" />
+		<property name="Overlay0Tint" value="FFFFFF" />
 	</property>
 </item>
 
@@ -5655,7 +5658,7 @@ which does not exist, yet. -->
 	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
 	<property name="Material" value="cloth" />
 	<property name="HoldType" value="16" />
-	<property name="Stacknumber" value="5" /> <!-- STK medical -->
+	<property name="Stacknumber" value="50" /> <!-- STK medical -->
 	<property name="FuelValue" value="1" />
 	<property name="Weight" value="5" />
 	<property name="EconomicValue" value="5" />
@@ -6584,7 +6587,7 @@ which does not exist, yet. -->
 		<property name="Gain_water" value="0" />
 		<property name="Gain_wellness" value="0.8" />
 		<property name="Sound_start" value="UseActions/player_eating" />
-		<!-- jar from cooking food <property name="Create_item" value="emptyJar" /> -->
+		<property name="Create_item" value="bowl" />
 	</property>
 	<property name="Group" value="Food/Cooking" />
 </item>
@@ -8047,7 +8050,8 @@ which does not exist, yet. -->
 
 <item id="1340" name="feather">
 	<property name="Meshfile" value="Items/Crafting/featherPrefab" />
-	<property name="Material" value="cloth" />
+	<property name="Material" value="feather" />
+	<property name="Weight" value="1" />
 	<property name="HoldType" value="21" />
 	<property name="Stacknumber" value="250" /> <!-- STK resource -->
 	<property name="FuelValue" value="1" />
@@ -9081,7 +9085,7 @@ which does not exist, yet. -->
     </item>
 
 	<!-- CHS Starts -->
-	<item id="1599" name="CHS Version 2.15">
+	<item id="1599" name="CHS Version 2.16">
 		<property name="CustomIcon" value="Bounty_Hat" />
 		<property name="Meshfile" value="Items/Misc/paper" />
 		<property name="HoldType" value="21" />
@@ -10115,7 +10119,6 @@ which does not exist, yet. -->
 			<property name="Focused_blockname_3" value="waterStaticBucket" />
 			<property name="Focused_blockname_4" value="waterMovingBucket" />
 			<property name="Focused_blockname_5" value="waterSource8" />
-			<property name="Focused_blockname_6" value="snow" />
 			<property name="Sound_start" value="UseActions/bucketfill_water" />
 		</property>
 		<property class="Preview">
