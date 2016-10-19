@@ -5650,7 +5650,7 @@
 		</dna>
 	</archetype>
 
-	<archetype name="ZombieLumberjack" male="true" hair_color="98,85,79" eye_color="100,110,115" skin_color="110,173,255" type="Zombie">
+	<archetype name="ZombieLumberjack" male="true" hair_color="98,85,79" eye_color="100,110,115" skin_color="110,173,255" type="None">
 		<base_mesh_parts>
 			<part slot="head" layer="base" mesh="male_base_face">
 				<texture name="male_head_zombie" color="skin"/>
@@ -5771,7 +5771,7 @@
 			<gene name="breastSize" value="0"/>
 		</dna>
 	</archetype>
-	<archetype name="ZombieSurvivorMale" male="true" hair_color="31,28,26" eye_color="184,169,166" skin_color="96,96,96" type="Zombie">
+	<archetype name="ZombieSurvivorMale" male="true" hair_color="31,28,26" eye_color="184,169,166" skin_color="96,96,96" type="None">
 		<base_mesh_parts>
 			<part slot="head" layer="base" mesh="male_base_face">
 				<texture name="male_head_zombie" color="skin"/>
@@ -5903,7 +5903,7 @@
 			<gene name="breastSize" value="0.5"/>
 		</dna>
 	</archetype>
-	<archetype name="ZombieTrucker" male="true" hair_color="148,74,40" eye_color="184,169,166" skin_color="155,218,179" type="Zombie">
+	<archetype name="ZombieTrucker" male="true" hair_color="148,74,40" eye_color="184,169,166" skin_color="155,218,179" type="None">
 		<base_mesh_parts>
 			<part slot="head" layer="base" mesh="male_base_face">
 				<texture name="male_head_zombie" color="skin"/>
@@ -6021,7 +6021,7 @@
 			<gene name="breastSize" value="0.5"/>
 		</dna>
 	</archetype>
-	<archetype name="ZombieClarice" male="false" hair_color="30,29,28" eye_color="184,169,166" skin_color="135,170,186" type="Zombie">
+	<archetype name="ZombieClarice" male="false" hair_color="30,29,28" eye_color="184,169,166" skin_color="135,170,186" type="None">
 		<base_mesh_parts>
 			<part slot="head" layer="base" mesh="female_base_face">
 				<texture name="female_head_zombie" color="skin"/>
@@ -6140,7 +6140,7 @@
 			<gene name="breastSize" value="0.5"/>
 		</dna>
 	</archetype>
-	<archetype name="ZombieVoodooMale" male="true" hair_color="20,20,20" eye_color="184,169,166" skin_color="69,59,43" type="Zombie">
+	<archetype name="ZombieVoodooMale" male="true" hair_color="20,20,20" eye_color="184,169,166" skin_color="69,59,43" type="None">
 		<base_mesh_parts>
 			<part slot="head" layer="base" mesh="male_base_face">
 				<texture name="male_head_zombie" color="skin"/>
@@ -6251,7 +6251,7 @@
 			<gene name="breastSize" value="0.5"/>
 		</dna>
 	</archetype>
-	<archetype name="ZombieKenny" male="true" hair_color="255,255,255" eye_color="184,169,166" skin_color="135,170,186" type="Zombie">
+	<archetype name="ZombieKenny" male="true" hair_color="255,255,255" eye_color="184,169,166" skin_color="135,170,186" type="None">
 		<base_mesh_parts>
 			<part slot="head" layer="base" mesh="male_base_face">
 				<texture name="male_head_zombie" color="skin"/>
@@ -6365,7 +6365,7 @@
 			<gene name="breastSize" value="0.5"/>
 		</dna>
 	</archetype>
-	<archetype name="ZombieRavager" male="true" hair_color="255,255,255" eye_color="184,169,166" skin_color="220,220,220" type="Zombie">
+	<archetype name="ZombieRavager" male="true" hair_color="255,255,255" eye_color="184,169,166" skin_color="220,220,220" type="None">
 		<base_mesh_parts>
 			<part slot="head" layer="base" mesh="male_base_face">
 				<texture name="male_head_zombie" color="skin"/>
@@ -6481,7 +6481,7 @@
 			<gene name="breastSize" value="0"/>
 		</dna>
 	</archetype>
-	<archetype name="ZombieInmate" male="true" hair_color="255,255,255" eye_color="184,169,166" skin_color="135,170,186" type="Zombie">
+	<archetype name="ZombieInmate" male="true" hair_color="255,255,255" eye_color="184,169,166" skin_color="135,170,186" type="None">
 		<base_mesh_parts>
 			<part slot="head" layer="base" mesh="male_base_face">
 				<texture name="male_head_zombie" color="skin"/>
@@ -6587,7 +6587,7 @@
 			<gene name="breastSize" value="0.5"/>
 		</dna>
 	</archetype>
-	<archetype name="ZombieRanger" male="true" hair_color="255,255,255" eye_color="184,169,166" skin_color="135,170,186" type="Zombie">
+	<archetype name="ZombieRanger" male="true" hair_color="255,255,255" eye_color="184,169,166" skin_color="135,170,186" type="None">
 		<base_mesh_parts>
 			<part slot="head" layer="base" mesh="male_base_face">
 				<texture name="male_head_zombie" color="skin"/>
