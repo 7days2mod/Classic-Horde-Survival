@@ -262,11 +262,6 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 </recipe>
 
 <recipe name="bottledWater" count="1" craft_area="campfire" craft_tool="cookingPot">
-	<ingredient name="snowBall" count="1"/>
-	<ingredient name="emptyJar" count="1"/>
-</recipe>
-
-<recipe name="bottledWater" count="1" craft_area="campfire" craft_tool="cookingPot">
 	<ingredient name="bottledRiverWater" count="1"/>
 </recipe>
 
@@ -1615,6 +1610,10 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="campfire" count="1"/>
 	<ingredient name="cookingGrill" count="1"/>
 	<ingredient name="cookingPot" count="1"/>
+</recipe>
+<recipe name="bottledRiverWater" count="1" craft_area="survivalCampfire">
+	<ingredient name="snowBall" count="1"/>
+	<ingredient name="emptyJar" count="1"/>
 </recipe>
 <recipe name="baconAndEggs" count="1" craft_area="survivalCampfire" >
 	<ingredient name="egg" count="2"/>
