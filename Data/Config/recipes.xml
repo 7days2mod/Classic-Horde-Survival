@@ -1014,7 +1014,7 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="wood" count="1"/>
 </recipe>
 
-<recipe name="trapSpikesNew" count="1">
+<recipe name="trapSpikesNew" count="1" craft_exp_gain="25">
 	<ingredient name="wood" count="100"/>
 </recipe>
 
@@ -1202,6 +1202,23 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 </recipe>
 
 		<!-- Misc Recipes Mod -->
+<recipe name="scrapIronAxe" count="1">
+	<ingredient name="scrapIron" count="10"/>
+	<ingredient name="yuccaFibers" count="2"/>
+	<ingredient name="wood" count="5"/>
+</recipe>
+<recipe name="scrapIronPickaxe" count="1">
+	<ingredient name="scrapIron" count="15"/>
+	<ingredient name="wood" count="20"/>
+</recipe>
+<recipe name="scrapIronShovel" count="1">
+	<ingredient name="scrapIron" count="15"/>
+	<ingredient name="wood" count="20"/>
+</recipe>
+<recipe name="scrapIronShiv" count="1">
+	<ingredient name="scrapIron" count="3"/>
+	<ingredient name="ductTape" count="1"/>
+</recipe>
 
 <recipe name="cntEPSCardboardBox" count="1">
 	<ingredient name="paper" count="16" />
@@ -1409,17 +1426,17 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
   <ingredient name="chrysanthemumPlant" count="3" />
 	</recipe>
 	<recipe name="animalFeed" count="1" >
-  <ingredient name="acorn" count="3" />
+  <ingredient name="acorn" count="2" />
 	</recipe>
 	<recipe name="animalSnare" count="1" >
         <ingredient name="wood" count="5"/>
 		<ingredient name="yuccaFibers" count="6" />
-		<ingredient name="animalFeed" count="1" />
+		<ingredient name="animalFeed" count="2" />
 	</recipe>
     <recipe name="chickenCoop" count="1" >
         <ingredient name="wood" count="10"/>
         <ingredient name="yuccaFibers" count="15" />
-		<ingredient name="animalFeed" count="1" />
+		<ingredient name="animalFeed" count="4" />
     </recipe>
     <recipe name="trapFire" count="2" craft_area="workbench">      
 		<ingredient name="forgedSteel" count="8" />
@@ -1892,5 +1909,18 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="carBattery" count="1"/>
 </recipe>
 
-
+<recipe name="logCabinBlock" count="1" craft_area="workbench" craft_exp_gain="5">
+	<ingredient name="wood" count="10"/>
+	<ingredient name="carpenterKit" count="1"/>
+</recipe>
+<recipe name="logCabinRamp" count="1" craft_area="workbench" craft_exp_gain="5">
+	<ingredient name="wood" count="10"/>
+	<ingredient name="carpenterKit" count="1"/>
+</recipe>
+<recipe name="woodBarricadeCTRPlate" count="1">
+	<ingredient name="wood" count="10"/>
+</recipe>
+<recipe name="woodBarricadePlate" count="1">
+	<ingredient name="wood" count="10"/>
+</recipe>
 </recipes>

@@ -487,7 +487,7 @@ Mesh files no longer used:
 	<property name="AttachmentFlashlight" value="flashlight02" /> <!-- End: Needed for the attachment flashlight -->
 	<property name="Group" value="Ammo/Weapons" />
 	<property name="ActionSkillGroup" value="Pistols"/>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Pistols"/>
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="gunAssemblyTip,augmentGunsTip" />
 	<property class="Attributes">
@@ -541,7 +541,7 @@ Mesh files no longer used:
 	<property name="AttachmentFlashlight" value="flashlight02" /> <!-- End: Needed for the attachment flashlight -->
 	<property name="Group" value="Ammo/Weapons" />
 	<property name="ActionSkillGroup" value="Pistols"/>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Pistols"/>
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="gunAssemblyTip,augmentGunsTip" />
 </item>
@@ -595,7 +595,7 @@ Mesh files no longer used:
 	<property name="AttachmentFlashlight" value="flashlight02" /> <!-- End: Needed for the attachment flashlight -->
 	<property name="Group" value="Ammo/Weapons" />
 	<property name="ActionSkillGroup" value="Shotguns"/>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Shotguns"/>
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="gunAssemblyTip,augmentGunsTip" />
 	<property class="Attributes">
@@ -653,7 +653,7 @@ Mesh files no longer used:
 	<property name="AttachmentFlashlight" value="flashlight02" /> <!-- End: Needed for the attachment flashlight -->
 	<property name="Group" value="Ammo/Weapons" />
 	<property name="ActionSkillGroup" value="Shotguns"/>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Shotguns"/>
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="alternateAmmoTip,gunAssemblyTip,augmentGunsTip" />
 	<property class="Attributes">
@@ -713,7 +713,7 @@ Mesh files no longer used:
 	<property name="AttachmentFlashlight" value="flashlight02" /> <!-- End: Needed for the attachment flashlight -->
 	<property name="Group" value="Ammo/Weapons" />
 	<property name="ActionSkillGroup" value="Rifles"/>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Rifles"/>
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="gunAssemblyTip,augmentGunsTip" />
 </item>
@@ -771,7 +771,7 @@ Mesh files no longer used:
 	<property name="AttachmentFlashlight" value="flashlight02" /> <!-- End: Needed for the attachment flashlight -->
 	<property name="Group" value="Ammo/Weapons" />
 	<property name="ActionSkillGroup" value="Rifles"/>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Rifles"/>
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="gunAssemblyTip,augmentGunsTip" />
 </item>
@@ -824,7 +824,7 @@ Mesh files no longer used:
 	<property name="AttachmentFlashlight" value="flashlight02" /> <!-- End: Needed for the attachment flashlight -->
 	<property name="Group" value="Ammo/Weapons" />
 	<property name="ActionSkillGroup" value="Rifles"/>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Rifles"/>
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="gunAssemblyTip,augmentGunsTip" />
 	<property class="Attributes">
@@ -880,7 +880,7 @@ Mesh files no longer used:
 	<property name="AttachmentFlashlight" value="flashlight02" /> <!-- End: Needed for the attachment flashlight -->
 	<property name="Group" value="Ammo/Weapons" />
 	<property name="ActionSkillGroup" value="Rifles"/>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Rifles"/>
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="gunAssemblyTip,augmentGunsTip" />
 </item>
@@ -921,7 +921,7 @@ Mesh files no longer used:
 		<property name="Zoom_max_in" value="40" />
 	</property>
 	<property name="Group" value="Ammo/Weapons" />
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="gunAssemblyTip,augmentGunsTip" />
 </item>
@@ -1786,7 +1786,7 @@ which does not exist, yet. -->
 	</property>
 	<property name="Group" value="Tools/Traps" />
 	<property name="ActionSkillGroup" value="Construction Tools"/>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/> <!-- 15.0 workaround. Should be Science -->
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/> <!-- 15.0 workaround. Should be Science -->
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="gunAssemblyTip" />
 </item>
@@ -1835,7 +1835,7 @@ which does not exist, yet. -->
 	</property>
 	<property name="Group" value="Tools/Traps" />
 	<property name="ActionSkillGroup" value="Mining Tools"/>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/> <!-- 15.0 workaround. Should be Science -->
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/> <!-- 15.0 workaround. Should be Science -->
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="gunAssemblyTip" />
 </item>
@@ -1884,7 +1884,7 @@ which does not exist, yet. -->
 	</property>
 	<property name="Group" value="Tools/Traps" />
 	<property name="ActionSkillGroup" value="Mining Tools"/>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/> <!-- 15.0 workaround. Should be Science -->
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/> <!-- 15.0 workaround. Should be Science -->
 	<property name="RepairExpMultiplier" value="10.8"/>
 	<property name="PickupJournalEntry" value="gunAssemblyTip" />
 </item>
@@ -1994,7 +1994,7 @@ which does not exist, yet. -->
 	<property name="Material" value="brass" />
 	<property name="HoldType" value="21" />
 	<property name="Stacknumber" value="500" /> <!-- STK ammo -->
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 	<property name="EconomicValue" value="14" />
 	<property name="Group" value="Ammo/Weapons" />
 </item>
@@ -2004,7 +2004,7 @@ which does not exist, yet. -->
 	<property name="Material" value="brass" />
 	<property name="HoldType" value="21" />
 	<property name="Stacknumber" value="500" /> <!-- STK ammo -->
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 	<property name="EconomicValue" value="17" />
 	<property name="Group" value="Ammo/Weapons" />
 </item>
@@ -2015,7 +2015,7 @@ which does not exist, yet. -->
 	<property name="HoldType" value="21" />
 	<property name="Stacknumber" value="500" /> <!-- STK ammo -->
 	<property name="Group" value="Ammo/Weapons" />
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 	<property name="EconomicValue" value="19" />
 </item>
 
@@ -2024,7 +2024,7 @@ which does not exist, yet. -->
 	<property name="Material" value="brass" />
 	<property name="HoldType" value="21" />
 	<property name="Stacknumber" value="500" /> <!-- STK ammo -->
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 	<property name="EconomicValue" value="19" />
 	<property name="Group" value="Ammo/Weapons" />
 </item>
@@ -2041,7 +2041,7 @@ which does not exist, yet. -->
 		<property name="EntityDamage" value="3.6,9" />
 		<property name="BlockDamage" value="5.4,13.5" />
 	</property>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 	<property name="Group" value="Ammo/Weapons" />
 </item>
 
@@ -2056,7 +2056,7 @@ which does not exist, yet. -->
 		<property name="EntityDamage" value="100,150" />
 		<property name="BlockDamage" value="100,150" />
 	</property>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 	<property name="Group" value="Ammo/Weapons" />
 </item>
 
@@ -2083,7 +2083,7 @@ which does not exist, yet. -->
 		<property name="FlyTime" value="1.2" />
 		<property name="LifeTime" value="8" />
 	</property>
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 	<property name="Group" value="Ammo/Weapons" />
 </item>
 
@@ -2096,7 +2096,7 @@ which does not exist, yet. -->
 	<property name="DropScale" value="4" />
 	<property name="Group" value="Ammo/Weapons" />
 	<property name="EconomicValue" value="6" />
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 </item>
 
 <item id="161" name="gasCan">
@@ -7017,7 +7017,7 @@ which does not exist, yet. -->
 	<property name="Extends" value="schematicMaster" />
 	<property name="EconomicValue" value="500" />
 	<property class="Action1">
-		<property name="Skills_to_gain" value="Crossbow,Crossbow,Crossbow" />
+		<property name="Skills_to_gain" value="Archery,Archery,Archery" />
 	</property>
 </item>
 
@@ -7025,7 +7025,7 @@ which does not exist, yet. -->
 	<property name="Extends" value="schematicMaster" />
 	<property class="Action1">
 		<property name="Recipes_to_learn" value="gunPistol" />
-		<property name="Skills_to_gain" value="Gun Smithing" />
+		<property name="Skills_to_gain" value="Weapon Smithing" />
 	</property>
 </item>
 
@@ -7034,21 +7034,21 @@ which does not exist, yet. -->
 	<property name="EconomicValue" value="500" />
 	<property class="Action1">
 		<property name="Recipes_to_learn" value="gun44Magnum" />
-		<property name="Skills_to_gain" value="Gun Smithing" />
+		<property name="Skills_to_gain" value="Weapon Smithing" />
 	</property>
 </item>
 
 <item id="923" name="sawedoffPumpShotgunSchematic">
 	<property name="Extends" value="schematicMaster" />
 	<property class="Action1">
-		<property name="Skills_to_gain" value="Gun Smithing" />
+		<property name="Skills_to_gain" value="Weapon Smithing" />
 	</property>
 </item>
 
 <item id="924" name="pumpShotgunSchematic">
 	<property name="Extends" value="schematicMaster" />
 	<property class="Action1">
-		<property name="Skills_to_gain" value="Gun Smithing" />
+		<property name="Skills_to_gain" value="Weapon Smithing" />
 	</property>
 </item>
 
@@ -7057,7 +7057,7 @@ which does not exist, yet. -->
 	<property name="EconomicValue" value="500" />
 	<property class="Action1">
 		<property name="Recipes_to_learn" value="gunMP5" />
-		<property name="Skills_to_gain" value="Gun Smithing" />
+		<property name="Skills_to_gain" value="Weapon Smithing" />
 	</property>
 </item>
 
@@ -7066,14 +7066,14 @@ which does not exist, yet. -->
 	<property name="EconomicValue" value="500" />
 	<property class="Action1">
 		<property name="Recipes_to_learn" value="gunAK47" />
-		<property name="Skills_to_gain" value="Gun Smithing" />
+		<property name="Skills_to_gain" value="Weapon Smithing" />
 	</property>
 </item>
 
 <item id="931" name="huntingRifleSchematic">
 	<property name="Extends" value="schematicMaster" />
 	<property class="Action1">
-		<property name="Skills_to_gain" value="Gun Smithing" />
+		<property name="Skills_to_gain" value="Weapon Smithing" />
 	</property>
 </item>
 
@@ -7082,7 +7082,7 @@ which does not exist, yet. -->
 	<property name="EconomicValue" value="500" />
 	<property class="Action1">
 		<property name="Recipes_to_learn" value="gunSniperRifle" />
-		<property name="Skills_to_gain" value="Gun Smithing" />
+		<property name="Skills_to_gain" value="Weapon Smithing" />
 	</property>
 </item>
 
@@ -7091,7 +7091,7 @@ which does not exist, yet. -->
 	<property name="EconomicValue" value="500" />
 	<property class="Action1">
 		<property name="Recipes_to_learn" value="gunRocketLauncher,rocket,rocketCasing,rocketTip" />
-		<property name="Skills_to_gain" value="Gun Smithing" />
+		<property name="Skills_to_gain" value="Weapon Smithing" />
 	</property>
 </item>
 
@@ -7122,7 +7122,7 @@ which does not exist, yet. -->
 	<property name="Extends" value="schematicMaster" />
 	<property class="Action1">
 		<property name="Recipes_to_learn" value="bulletTip,bulletCasing" />
-		<property name="Skills_to_gain" value="Gun Smithing" />
+		<property name="Skills_to_gain" value="Weapon Smithing" />
 	</property>
 </item>
 
@@ -7159,7 +7159,7 @@ which does not exist, yet. -->
 	<property name="Extends" value="schematicMaster" />
 	<property name="EconomicValue" value="500" />
 	<property class="Action1">
-		<property name="Skills_to_gain" value="Gun Smithing" />
+		<property name="Skills_to_gain" value="Weapon Smithing" />
 	</property>
 </item>
 
@@ -7300,7 +7300,7 @@ which does not exist, yet. -->
 <item id="1018" name="macDyverBook"> <!-- scrapArmorSchematic -->
 	<property name="Extends" value="schematicMaster" />
 	<property class="Action1">
-		<property name="Skills_to_gain" value="Armor Smithing,Blunderbuss,Improvised Armor" />
+		<property name="Skills_to_gain" value="Armor Smithing,Improvised Armor" />
 	</property>
 </item>
 
@@ -8118,7 +8118,7 @@ which does not exist, yet. -->
 	<property name="EconomicValue" value="22" />
 	<property name="EconomicBundleSize" value="10" />
 	<property name="Group" value="Resources,Ammo/Weapons,Tools/Traps" />
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 </item>
 
 <item id="1348" name="buckshot">
@@ -8130,7 +8130,7 @@ which does not exist, yet. -->
 	<property name="EconomicValue" value="36" />
 	<property name="EconomicBundleSize" value="5" />
 	<property name="Group" value="Resources,Ammo/Weapons" />
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 </item>
 
 <item id="1349" name="bulletCasing">
@@ -8141,7 +8141,7 @@ which does not exist, yet. -->
 	<property name="EconomicValue" value="25" />
 	<property name="EconomicBundleSize" value="5" />
 	<property name="Group" value="Resources,Ammo/Weapons" />
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 </item>
 
 <item id="1350" name="bulletTip">
@@ -8153,7 +8153,7 @@ which does not exist, yet. -->
 	<property name="EconomicValue" value="25" />
 	<property name="EconomicBundleSize" value="5" />
 	<property name="Group" value="Resources,Ammo/Weapons" />
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 </item>
 
 <item id="1353" name="nail">
@@ -8194,7 +8194,7 @@ which does not exist, yet. -->
 	<property name="Stacknumber" value="500" /> <!-- STK resource -->
 	<property name="EconomicValue" value="151" />
 	<property name="Group" value="Resources,Ammo/Weapons" />
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 </item>
 
 <item id="1355" name="rocketCasing">
@@ -8205,7 +8205,7 @@ which does not exist, yet. -->
 	<property name="Stacknumber" value="500" /> <!-- STK resource -->
 	<property name="EconomicValue" value="77" />
 	<property name="Group" value="Resources,Ammo/Weapons" />
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 </item>
 
 <item id="1359" name="repairKit">
@@ -8218,7 +8218,7 @@ which does not exist, yet. -->
 	<property name="RepairTime" value="2" />
 	<property name="RepairAmount" value="2000" />
 	<property name="Group" value="Resources,Ammo/Weapons" />
-	<property name="CraftingSkillGroup" value="Gun Smithing"/>
+	<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 </item>
 
 <item id="1360" name="oil">
@@ -9540,7 +9540,7 @@ which does not exist, yet. -->
 			<property name="BlockDamage" value="60,80" />
 			<property name="DamageBonus.wood" value="25" />
 		</property>
-		<property name="CraftingSkillGroup" value="Gun Smithing"/>
+		<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 	</item>
 	<item id="1644" name="shotgunShellINC">
 	<property name="Meshfile" value="Items/Weapons/Ranged/SawedOffPumpShotgun/shotgunShellPrefab" />
@@ -9556,7 +9556,7 @@ which does not exist, yet. -->
 			<property name="BlockDamage" value="14,17" />
 			<property name="ApplyBuff" value="1,1" param1="burningSmall" />
 		</property>
-		<property name="CraftingSkillGroup" value="Gun Smithing"/>
+		<property name="CraftingSkillGroup" value="Weapon Smithing"/>
 	</item>
 	<item id="1645" name="blunderbussAmmoShredder">
 		<property name="Extends" value="blunderbussAmmo" />
@@ -11330,6 +11330,7 @@ which does not exist, yet. -->
 	<property name="Material" value="organic" />
 	<property name="HoldType" value="45" />
 	<property name="Stacknumber" value="1000" /> <!-- STK resource -->
+	<property name="SellableToTrader" value="false" />
 </item>
 <item id="1977" name="charcoalChips">
 	<property name="DescriptionKey" value="charcoalChipsDesc"/>
@@ -11506,6 +11507,78 @@ which does not exist, yet. -->
 		<property name="Delay" value="0" />
 	</property>
 	</item>
+<item id="1994" name="scrapIronAxe">
+	<property name="Meshfile" value="Items/Weapons/Melee/Axe/stone_axePrefab" />
+	<property name="Material" value="metal" />
+	<property name="RepairTools" value="scrapIron" />
+	<property name="HoldType" value="32" />
+	<property name="EconomicValue" value="5" />
+	<property name="EconomicBundleSize" value="1" />
+	<property name="SellableToTrader" value="false" />
+ 	<property name="DegradationBreaksAfter" value="false" />
+	<property name="SoundJammed" value="ItemNeedsRepair" />
+	<property name="SoundDestroy" value="wooddestroy1" />
+	<property name="FuelValue" value="12" />
+	<property class="Action0"> <!-- AttackAction -->
+		<property name="Class" value="Melee" />
+		<property name="Delay" value="0.8" />
+		<property name="Range" value="2.1" />
+		<property name="Block_range" value="3" />
+		<property name="Sphere" value="0.1" />
+		<property name="Sound_start" value="swoosh" />
+		<property name="Stamina_usage" value="5" />
+		<property name="DamageBonus.head" value="7" />		<property name="DamageBonus.body" value="0.7" /> <!-- CHS Headshots -->
+		<property name="DamageBonus.glass" value="25" />
+		<property name="DamageBonus.wood" value="1" />
+		<property name="DamageBonus.metal" value="0.5" />
+		<property name="DamageBonus.earth" value="0.25" />
+		<property name="DamageBonus.organic" value="1" />
+		<property name="ActionExp" value="2" />
+		<property name="ToolCategory.Butcher" value="0.5" />
+	</property>
+	<property class="Attributes">
+		<property name="EntityDamage" value="6,14" />
+		<property name="BlockDamage" value="20,35" />
+		<property name="DegradationMax" value="100,600" />
+		<property name="DegradationRate" value="2,2" />
+		<property name="DismembermentBaseChance" value="0,0"/>
+		<property name="DismembermentBonus" value="0,0"/>
+	</property>
+	<property name="Group" value="Tools/Traps,Basics" />
+	<property name="ActionSkillGroup" value="Axes"/>
+	<property name="CraftingSkillGroup" value="Tool Smithing"/>
+	<property name="RepairExpMultiplier" value="5.5"/>
+</item>
+<item id="1995" name="scrapIronPickaxe">
+	<property name="Extends" value="pickaxeIron" />
+	<property name="RepairTools" value="scrapIron" />
+	<property name="EconomicValue" value="5" />
+	<property class="Attributes">
+		<property name="EntityDamage" value="5,10" />
+		<property name="BlockDamage" value="19,30" />
+		<property name="DegradationMax" value="200,600" />
+		<property name="DegradationRate" value="2,2" />
+	</property>
+</item>
+<item id="1996" name="scrapIronShovel">
+	<property name="Extends" value="shovelIron" />
+	<property name="RepairTools" value="scrapIron" />
+	<property name="EconomicValue" value="5" />
+	<property class="Attributes">
+		<property name="EntityDamage" value="6,13" />
+		<property name="BlockDamage" value="16,40" />
+		<property name="DegradationMax" value="200,600" />
+		<property name="DegradationRate" value="2,2" />
+	</property>
+</item>
+<item id="1997" name="scrapIronShiv">
+	<property name="Extends" value="boneShiv" />
+	<property class="Attributes">
+		<property name="EntityDamage" value="8,16" />
+		<property name="DegradationMax" value="200,600" />
+		<property name="DegradationRate" value="2,2" />
+	</property>
+</item>
 	<!-- Recipe Books Mod -->
 	<item id="2011" name="recipebookLoki">
 	<property name="Extends" value="challengeQuestMaster" />
@@ -11563,7 +11636,7 @@ which does not exist, yet. -->
 		<property name="DescriptionKey" value="skillbookRogueDesc"/>
 		<property name="Extends" value="schematicMaster" />
 		<property class="Action1">
-			<property name="Skills_to_gain" value="Light Armor,Blade Weapons,Athletics,Lockpicks" />
+			<property name="Skills_to_gain" value="Light Armor,Blade Weapons,Athletics" />
 		</property>
 	</item>
 	<item id="2020" name="skillbookWasteland">
@@ -11615,18 +11688,18 @@ which does not exist, yet. -->
 			<property name="Skills_to_gain" value="Shotguns,Shotguns,Shotguns" />
 		</property>
 	</item>
-	<item id="2027" name="skillbookGunSmith">
+<!--	<item id="2027" name="skillbookGunSmith">
 		<property name="DescriptionKey" value="skillbookGunSmithDesc"/>
 		<property name="Extends" value="schematicMaster" />
 		<property class="Action1">
 			<property name="Skills_to_gain" value="Gun Smithing,Gun Smithing,Gun Smithing" />
 		</property>
-	</item>
+	</item>-->
 	<item id="2028" name="skillbookArchery">
 		<property name="Extends" value="schematicMaster" />
 		<property name="DescriptionKey" value="skillbookArcheryDesc"/>
 		<property class="Action1">
-			<property name="Skills_to_gain" value="Archery,Archery,Wooden Bow,Wooden Bow" />
+			<property name="Skills_to_gain" value="Archery,Archery,Archery" />
 		</property>
 	</item>
 	<item id="2029" name="recipebookMasonry">
@@ -11640,7 +11713,7 @@ which does not exist, yet. -->
 		<property name="DescriptionKey" value="skillbookCrossbowDesc"/>
 		<property name="Extends" value="schematicMaster" />
 		<property class="Action1">
-			<property name="Skills_to_gain" value="Archery,Archery,Crossbow,Crossbow,Crossbow" />
+			<property name="Skills_to_gain" value="Archery,Archery" />
 		</property>
 	</item>
 	<item id="2031" name="recipebookSinks">
@@ -11657,13 +11730,13 @@ which does not exist, yet. -->
 			<property name="Skills_to_gain" value="Oven Repair,Oven Repair,Oven Repair" />
 		</property>
 	</item>
-	<item id="2033" name="skillbookLockpick">
+<!--	<item id="2033" name="skillbookLockpick">
 		<property name="DescriptionKey" value="skillbookLockpickDesc"/>
 		<property name="Extends" value="schematicMaster" />
 		<property class="Action1">
 			<property name="Skills_to_gain" value="Lockpicks,Lockpicks,Lockpicks" />
 		</property>
-	</item>
+	</item> -->
 	<item id="2034" name="recipebookAnimalTraps">
 		<property name="DescriptionKey" value="recipebookAnimalTrapsDesc"/>
 		<property name="Extends" value="schematicMaster" />
@@ -11696,7 +11769,7 @@ which does not exist, yet. -->
 		<property name="DescriptionKey" value="skillbookHuntergDesc"/>
 		<property name="Extends" value="schematicMaster" />
 		<property class="Action1">
-			<property name="Skills_to_gain" value="Blade Weapons,Archery,Leatherworking,Leatherworking" />
+			<property name="Skills_to_gain" value="Blade Weapons,Archery,Leatherworking,Leatherworking,Animal Traps" />
 		</property>
 	</item>
 	<!-- Workstation Tools -->
@@ -12036,14 +12109,6 @@ which does not exist, yet. -->
 	<property name="DescriptionKey" value="perkClassDesc"/>
 	<property class="Action1">
 	<property name="QuestGiven" value="perkHunter" />
-	</property>
-</item>
-<item id="2603" name="perkScavenger">
-	<property name="Extends" value="challengeQuestMaster" />
-	<property name="CustomIcon" value="SurvivorNotes2" />
-	<property name="DescriptionKey" value="perkClassDesc"/>
-	<property class="Action1">
-	<property name="QuestGiven" value="perkScavenger" />
 	</property>
 </item>
 <item id="2604" name="perkGunman">

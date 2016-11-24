@@ -346,7 +346,6 @@ quality_mod: adjusts the price range of all items with a quality level.
 	<item name="recipebookSinks"/>
 	<item name="recipebookOven"/>
 	<item name="recipebookAnimalTraps"/>
-	<item name="skillbookGunSmith"/>
 		</trader_item_group>
 
 		<trader_item_group name="books" count="1">

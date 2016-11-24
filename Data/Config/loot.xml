@@ -763,7 +763,6 @@
 	<item name="recipebookSinks"/>
 	<item name="recipebookOven"/>
 	<item name="recipebookAnimalTraps"/>
-	<item name="skillbookGunSmith"/>
 </lootgroup>
 
 <lootgroup name="herbalRecipes" count="1">
@@ -2669,18 +2668,6 @@
 		<item name="animalFeed" count="5"/>
 		<item name="perkHunter" count="1"/>
 	</lootgroup>
-	<lootgroup name="ScavengerClass" count="all">
-	    <item group="SurvivalGear"/>
-	    <item group="bandanaAll"/>
-        <item name="wrench" quality="170,170"/>  
-		<item name="bottledWater" count="1"/>	
-		<item name="ledGoggles" quality="170,170"/>
-		<item name="blunderbuss" quality="200,200"/>
-		<item name="blunderbussAmmo" count="100"/>
-		<item name="repairKit" count="4"/>
-		<item name="speedPill" count="5"/>
-		<item name="perkScavenger" count="1"/>
-	</lootgroup>
 	<lootgroup name="GunmanClass" count="all">
 	    <item group="SurvivalGear"/>
 		<item name="leatherDuster" count="1" quality="170,170"/>
@@ -2738,10 +2725,6 @@
 			<!-- Hunter Class -->	
 	<lootcontainer id="150" count="1" size="8,4" destroy_on_close="true" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="classTemplate">
 	    <item group="HunterClass"/>
-    </lootcontainer>
-			<!-- Scavenger Class -->	
-	<lootcontainer id="151" count="1" size="8,4" destroy_on_close="true" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="classTemplate">
-	    <item group="ScavengerClass"/>
     </lootcontainer>
 		    <!-- Gunman Class -->
 	<lootcontainer id="152" count="1" size="8,4" destroy_on_close="true" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="classTemplate">

@@ -411,7 +411,7 @@
 		repeatable="true" category_key="challenge" offer="" difficulty="easy">
 		<objective type="BlockUpgrade" id="cntGunSafe" value="3" />
 		<reward type="SkillPoints" value="1" />
-		<reward type="Skill" id="Lockpicks" value="2" />
+		<reward type="Skill" id="Scavenging" value="2" />
 	</quest>
 <quest id="challenge_Kickz" group_name_key="quest_Kickz" name="Kickz' Quest 1/3" subtitle="Survival Challenge 1" description="Fleet of Foot" icon="ui_game_symbol_campfire" 
 repeatable="false" category_key="challenge" offer="The slow have no place in this world. Get a pair of 'Kickz' (tm) sports shoes for extra fast looting runs." difficulty="easy">
@@ -550,12 +550,9 @@ repeatable="true" category_key="challenge" offer="Open this to get some ammo for
 <!-- Classes -->
 <quest id="perkSurvivor" name="Survivor Skills" subtitle="Survivor Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
 repeatable="false" category_key="challenge" offer="Survivor's specialize in surviving off the land." difficulty="easy">
-	<reward type="Skill" id="Crossbow" value="10" />
-	<reward type="Skill" id="Wooden Bow" value="5" />
 	<reward type="Skill" id="Archery" value="10" />
+	<reward type="Skill" id="Scavenging" value="20" />
 	<reward type="Skill" id="The Survivor" value="1" /> <!-- 10 points -->
-	<reward type="Skill" id="Blunderbuss" value="5" />
-	<reward type="Skill" id="Lockpicks" value="10" />
 	<reward type="Skill" id="Tool Smithing" value="10" />
 </quest>
 <quest id="perkHunter" name="Hunter Skills" subtitle="Hunter Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
@@ -563,32 +560,19 @@ repeatable="false" category_key="challenge" offer="Hunter's are trained at using
 	<reward type="Skill" id="Rifles" value="20" />
 	<reward type="Skill" id="762mm Round Crafting" value="10" />
 	<reward type="Skill" id="Leatherworking" value="10" />
-	<reward type="Skill" id="Gun Smithing" value="10" />
 	<reward type="Skill" id="Animal Traps" value="10" />
-</quest>
-<quest id="perkScavenger" name="Scavenger Skills" subtitle="Scavenger Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
-repeatable="false" category_key="challenge" offer="Scavenger's know how to make salvage and make do with what they've got." difficulty="easy">
-	<reward type="Skill" id="Blunderbuss" value="5" />
-	<reward type="Skill" id="Wooden Bow" value="5" />
-	<reward type="Skill" id="Scavenging" value="20" />
-	<reward type="Skill" id="Athletics" value="5" />
-	<reward type="Skill" id="Traps" value="5" />
-	<reward type="Skill" id="Tool Smithing" value="10" />
-	<reward type="Skill" id="Lockpicks" value="10" />
 </quest>
 <quest id="perkGunman" name="Gunman Skills" subtitle="Gunman Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
 repeatable="false" category_key="challenge" offer="Gunman have experience with handguns." difficulty="easy">
 	<reward type="Skill" id="9mm Round Crafting" value="10" />
 	<reward type="Skill" id="Pistols" value="20" />
-	<reward type="Skill" id="Gun Smithing" value="20" />
 	<reward type="Skill" id="Barter" value="10" />
+	<reward type="Skill" id="The Outlaw" value="1" /> <!-- 10 points -->
 </quest>
 <quest id="perkMedic" name="Medic Skills" subtitle="Medic Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
 repeatable="false" category_key="challenge" offer="The field medic has previous military training on the field and knows how to handle a handgun and an injury." difficulty="easy">
-	<reward type="Skill" id="9mm Round Crafting" value="5" />
 	<reward type="Skill" id="Medicine" value="20" />
-	<reward type="Skill" id="Science" value="15" />
-	<reward type="Skill" id="Tailoring" value="10" />
+	<reward type="Skill" id="Science" value="20" />
 	<reward type="Skill" id="Pistols" value="10" />
 </quest>
 <quest id="perkBruiser" name="Bruiser Skills" subtitle="Bruiser Skills" description="This teaches you the skills of the class." icon="misc_crafting" 
@@ -597,7 +581,6 @@ repeatable="false" category_key="challenge" offer="The Bruiser has experience in
 	<reward type="Skill" id="Blunt Weapons" value="20" />
 	<reward type="Skill" id="Blade Weapons" value="10" />
 	<reward type="Skill" id="Shotguns" value="10" />
-	<reward type="Skill" id="Athletics" value="10" />
 	<reward type="Skill" id="Improvised Armor" value="5" />
 </quest>
 

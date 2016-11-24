@@ -6991,14 +6991,20 @@ kind of free
 </block>
 
 <block id="794" name="logCabinBlock">
-	<property name="Extends" value="woodBlock" />
+	<property name="Group" value="Building" />
+	<property name="DescriptionKey" value="woodFrameGroupDesc"/>
+	<property name="Material" value="wood" />
 	<property name="Texture" value="43" />
 	<property name="FuelValue" value="160" />
+	<property name="IsDeveloper" value="true" />
+	<property class="RepairItems"> <property name="wood" value="10" /> </property>
+	<property name="CustomUpgradeSound" value="Crafting/place_block_wood" />
+	<drop event="Harvest" name="wood" count="3" />
 	<drop event="Destroy" name="wood" count="1" prob="1" />
 	<drop event="Fall" name="woodDebris" count="1" prob="0.75" stick_chance="1" />
 	<property name="EconomicValue" value="10" />
 	<property name="EconomicBundleSize" value="10" />
-	<drop event="Destroy" name="nail" count="0" prob="1" />
+	<drop event="Destroy" name="nail" count="1,2" prob="0.4" />
 </block>
 
 <block id="795" name="woodShinglesBlock">
@@ -13990,18 +13996,11 @@ kind of free
 	<property name="LootList" value="150" />
 	<drop event="Destroy" count="0" />
 </block>
-<block id="1965" name="(Class) - Scavenger">
+<block id="1965" name="DONOTUSE">
 	<property name="Extends" value="(Class) - Hunter" />
-	<property name="DescriptionKey" value="classScavengerDesc"/>
-	<property name="CustomIcon" value="Class - Scavenger" />
-	<property name="DowngradeBlock" value="Class - Scavenger" />
-	<property class="PlantGrowing">
-	<property name="Next" value="Class - Scavenger" />
-	</property>
 </block>
-<block id="1966" name="Class - Scavenger">
+<block id="1966" name="DONOTUSE">
 	<property name="Extends" value="Class - Hunter" />
-	<property name="LootList" value="151" />
 </block>
 <block id="1967" name="(Class) - Bruiser">
 	<property name="Extends" value="(Class) - Hunter" />
