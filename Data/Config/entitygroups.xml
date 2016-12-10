@@ -57,15 +57,10 @@
 		<entity name="zombieNurse2" />
 		<entity name="zombieNurse3" />
 		<entity name="zombieNurse4" />
-		
-		<entity name="ZombieRavager" />
-		<entity name="ZombieKenny" />
-		<entity name="ZombieTrucker" />
+
+
 		
 		<entity name="ZombieSurvivorMale" />
-		<entity name="ZombieClarice" />
-		
-        <entity name="ZombieInmate" />
         
 		<entity name="ZombieRanger" />
 	</entitygroup>
@@ -133,18 +128,9 @@
 		<entity name="zombieNurse4" />
 		
 		<entity name="ZombieRavager" />
-		<entity name="ZombieKenny" />
-		<entity name="ZombieTrucker" />
-		
 		<entity name="ZombieSurvivorMale" />
-
 		<entity name="ZombieClarice" />
-		
-        <entity name="ZombieInmate" />
-        
 		<entity name="ZombieVoodooMale" />
-		
-		<entity name="ZombieRanger" />
 		
 	</entitygroup>
 	
@@ -222,14 +208,8 @@
 		<entity name="ZombieTrucker" />
 		
 		<entity name="ZombieSurvivorMale" />
-
-		<entity name="ZombieClarice" />
-		
         <entity name="ZombieInmate" />
-        
 		<entity name="ZombieVoodooMale" />
-		
-		<entity name="ZombieRanger" />
 	</entitygroup>	
 	
 	<entitygroup name="ZombiesWastelandNight">
@@ -305,19 +285,8 @@
 		<entity name="zombieNurse4" />
 
 		<entity name="ZombieRavager" />
-		<entity name="ZombieKenny" />
-		<entity name="ZombieTrucker" />
-		
-		<entity name="ZombieSurvivorMale" />
-
-		<entity name="ZombieClarice" />
-		
         <entity name="ZombieInmate" />
-        
 		<entity name="ZombieVoodooMale" />
-		
-		
-		<entity name="ZombieRanger" />
 	</entitygroup>
 
 	<entitygroup name="ZombiesWastelandNightNoBears">
@@ -392,198 +361,11 @@
 		<entity name="zombieNurse3" />
 		<entity name="zombieNurse4" />
 		
-		<entity name="ZombieRavager" />
-		<entity name="ZombieKenny" />
-		<entity name="ZombieTrucker" />
-		
-		<entity name="ZombieSurvivorMale" />
-
-		<entity name="ZombieClarice" />
-		
+		<entity name="ZombieRavager" />		
         <entity name="ZombieInmate" />
-        
 		<entity name="ZombieVoodooMale" />
-		
-		
-		<entity name="ZombieRanger" />
 	</entitygroup>
 	
-	<entitygroup name="ZombiesWastelandNight2">
-		<entity name="zombieferal" />
-		<entity name="zombieferal2" />
-		<entity name="zombieferal3" />
-		<entity name="zombieferal4" />
-
-		<entity name="fatzombiecop" />
-		<entity name="fatzombiecop2" />
-		<entity name="fatzombiecop3" />
-		<entity name="fatzombiecop4" />
-
-		<entity name="zombieBoe" />
-        <entity name="zombieBoe2" />
-		<entity name="zombieBoe3" />
-		<entity name="zombieBoe4" />
-
-        <entity name="zombieJoe" />
-		<entity name="zombieJoe2" />
-		<entity name="zombieJoe3" />
-		<entity name="zombieJoe4" />
-
-        <entity name="zombieMoe" />
-		<entity name="zombieMoe2" />
-		<entity name="zombieMoe3" />
-		<entity name="zombieMoe4" />
-
-		<entity name="zombieArlene" />
-		<entity name="zombieArlene2" />
-		<entity name="zombieArlene3" />
-		<entity name="zombieArlene4" />
-		
-		<entity name="zombieScreamer1" />
-		<entity name="zombieScreamer2" />
-		<entity name="zombieScreamer3" />
-		<entity name="zombieScreamer4" />
-
-		<entity name="zombieDarlene" />
-		<entity name="zombieDarlene2" />
-		<entity name="zombieDarlene3" />
-		<entity name="zombieDarlene4" />
-
-		<entity name="zombieMarlene" />
-		<entity name="zombieMarlene2" />
-		<entity name="zombieMarlene3" />
-		<entity name="zombieMarlene4" />
-
-		<entity name="zombieYo" />
-		<entity name="zombieYo2" />
-		<entity name="zombieYo3" />
-		<entity name="zombieYo4" />
-
-        <entity name="zombieSteve" />
-        <entity name="zombieSteve2" />
-		<entity name="zombieSteve3" />
-		<entity name="zombieSteve4" />
-
-		<entity name="spiderzombie"/>
-		<entity name="spiderzombie2"/>
-		<entity name="spiderzombie3"/>
-		<entity name="spiderzombie4"/>
-
-		<entity name="burntzombie" />
-		<entity name="burntzombie2" />
-		<entity name="burntzombie3" />
-		<entity name="burntzombie4" />
-		
-
-		<entity name="zombieNurse" />
-		<entity name="zombieNurse2" />
-		<entity name="zombieNurse3" />
-		<entity name="zombieNurse4" />
-		
-		<entity name="ZombieRavager" />
-		<entity name="ZombieKenny" />
-		<entity name="ZombieTrucker" />
-		
-		<entity name="ZombieSurvivorMale" />
-
-		<entity name="ZombieClarice" />
-		
-        <entity name="ZombieInmate" />
-        
-		<entity name="ZombieVoodooMale" />
-		
-		
-		<entity name="ZombieRanger" />
-	</entitygroup>
-
-	<entitygroup name="ZombiesWastelandNight2NoBears">
-		<entity name="zombieferal" />
-		<entity name="zombieferal2" />
-		<entity name="zombieferal3" />
-		<entity name="zombieferal4" />
-
-		<entity name="fatzombiecop" />
-		<entity name="fatzombiecop2" />
-		<entity name="fatzombiecop3" />
-		<entity name="fatzombiecop4" />
-
-		<entity name="zombieBoe" />
-        <entity name="zombieBoe2" />
-		<entity name="zombieBoe3" />
-		<entity name="zombieBoe4" />
-
-        <entity name="zombieJoe" />
-		<entity name="zombieJoe2" />
-		<entity name="zombieJoe3" />
-		<entity name="zombieJoe4" />
-
-        <entity name="zombieMoe" />
-		<entity name="zombieMoe2" />
-		<entity name="zombieMoe3" />
-		<entity name="zombieMoe4" />
-
-		<entity name="zombieArlene" />
-		<entity name="zombieArlene2" />
-		<entity name="zombieArlene3" />
-		<entity name="zombieArlene4" />
-		
-		<entity name="zombieScreamer1" />
-		<entity name="zombieScreamer2" />
-		<entity name="zombieScreamer3" />
-		<entity name="zombieScreamer4" />
-
-		<entity name="zombieDarlene" />
-		<entity name="zombieDarlene2" />
-		<entity name="zombieDarlene3" />
-		<entity name="zombieDarlene4" />
-
-		<entity name="zombieMarlene" />
-		<entity name="zombieMarlene2" />
-		<entity name="zombieMarlene3" />
-		<entity name="zombieMarlene4" />
-
-		<entity name="zombieYo" />
-		<entity name="zombieYo2" />
-		<entity name="zombieYo3" />
-		<entity name="zombieYo4" />
-
-        <entity name="zombieSteve" />
-        <entity name="zombieSteve2" />
-		<entity name="zombieSteve3" />
-		<entity name="zombieSteve4" />
-
-		<entity name="spiderzombie"/>
-		<entity name="spiderzombie2"/>
-		<entity name="spiderzombie3"/>
-		<entity name="spiderzombie4"/>
-
-		<entity name="burntzombie" />
-		<entity name="burntzombie2" />
-		<entity name="burntzombie3" />
-		<entity name="burntzombie4" />
-		
-
-		<entity name="zombieNurse" />
-		<entity name="zombieNurse2" />
-		<entity name="zombieNurse3" />
-		<entity name="zombieNurse4" />
-		
-		<entity name="ZombieRavager" />
-		<entity name="ZombieKenny" />
-		<entity name="ZombieTrucker" />
-		
-		<entity name="ZombieSurvivorMale" />
-
-		<entity name="ZombieClarice" />
-		
-        <entity name="ZombieInmate" />
-        
-		<entity name="ZombieVoodooMale" />
-		
-		
-		<entity name="ZombieRanger" />
-	</entitygroup>
-
 	<entitygroup name="ZombiesHoard">
 		<entity name="fatzombiecop" />
 		<entity name="fatzombiecop2" />
@@ -644,23 +426,6 @@
 		<entity name="zombieNurse2" />
 		<entity name="zombieNurse3" />
 		<entity name="zombieNurse4" />
-		
-		<entity name="snowzombie" />
-		<entity name="snowzombie2" />
-		<entity name="snowzombie3" />
-		<entity name="snowzombie4" />
-		<entity name="ZombieLumberjack" />
-		
-		<entity name="ZombieRavager" />
-		<entity name="ZombieKenny" />
-		<entity name="ZombieTrucker" />
-		
-		<entity name="ZombieSurvivorMale" />
-
-		<entity name="ZombieClarice" />
-		
-        <entity name="ZombieInmate" />
-        
 	</entitygroup>
 
 	<entitygroup name="ZombieScouts">
@@ -875,16 +640,8 @@
 		<entity name="spiderzombie4"/>
 		<entity name="zombieNurse" />
 		<entity name="zombieNurse4" />
-		<entity name="ZombieRavager" />
-		<entity name="ZombieKenny" />
-		<entity name="ZombieTrucker" />
-		
-		<entity name="ZombieSurvivorMale" />
-
+		<entity name="ZombieTrucker" />	
 		<entity name="ZombieClarice" />
-		
-        <entity name="ZombieInmate" />
-		<entity name="ZombieRanger" />
     </entitygroup>
 	
     <entitygroup name="GraveYard">
@@ -905,9 +662,6 @@
 		<entity name="zombieMoe" />
 		<entity name="ZombieTrucker" />
         <entity name="ZombieInmate" />
-		
-        
-		<entity name="ZombieRanger" />
     </entitygroup>
 
     <entitygroup name="FoodStore">
