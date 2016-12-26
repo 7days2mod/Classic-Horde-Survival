@@ -12732,7 +12732,7 @@ kind of free
 	<!--<property name="RecipeList" value="backpack, workbench"/>-->
 	<!--<property name="CraftTimeMultiplier" value="0.5,1"/>-->
 	<property class="Workstation">
-		<property name="Modules" value="output"/>
+		<property name="Modules" value="tools,output"/>
 <!--		<property name="CraftingAreaRecipes" value="player,workbench" /> -->
 	</property>
 	<property class="RepairItems"> <property name="forgedIron" value="35" /> <property name="wood" value="50" /> </property>
