@@ -1233,11 +1233,11 @@
 		<recipe name="scrapHelmet" unlock_level="20"/>
 		<recipe name="scrapGloves" unlock_level="20"/>
 		
-		<recipe name="ironHelmet" unlock_level="3"/>
-		<recipe name="ironChestArmor" unlock_level="3"/>
-		<recipe name="ironLegArmor" unlock_level="3"/>
-		<recipe name="ironBoots" unlock_level="3"/>
-		<recipe name="ironGloves" unlock_level="3"/>
+		<recipe name="ironHelmet" unlock_level="30"/>
+		<recipe name="ironChestArmor" unlock_level="30"/>
+		<recipe name="ironLegArmor" unlock_level="30"/>
+		<recipe name="ironBoots" unlock_level="30"/>
+		<recipe name="ironGloves" unlock_level="30"/>
 	</perk>
 
 	
