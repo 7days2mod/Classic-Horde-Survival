@@ -1217,7 +1217,7 @@
 		<recipe name="ovenKit" unlock_level="15"/>
 	</perk>
 	
-	<perk name="Improvised Armor" icon="armor_iron" description_key="improvisedArmorPerkDesc" title_key="Learn how to craft improvised armors for better protection. Level 10 unlocks leather. Level 20 unlocks scrap iron. Level 30 unlocks iron armors." max_level="30" skill_point_cost_multiplier="1" skill_point_cost_per_level="1" group="clothing">
+	<perk name="Improvised Armor" icon="armor_iron" description_key="Learn how to craft improvised armors for better protection. Level 10 unlocks leather. Level 20 unlocks scrap iron. Level 30 unlocks iron armors." title_key="Improvised Armor" max_level="30" skill_point_cost_multiplier="1" skill_point_cost_per_level="1" group="clothing">
 		<requirement perk_level="10" required_skill_name="Leatherworking" required_skill_level="10"/>
 		<requirement perk_level="20" required_skill_name="Armor Smithing" required_skill_level="10"/>
 		<requirement perk_level="30" required_skill_name="Armor Smithing" required_skill_level="30"/>
