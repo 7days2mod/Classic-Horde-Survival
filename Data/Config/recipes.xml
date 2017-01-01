@@ -1058,10 +1058,6 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="yuccaFibers" count="3"/>
 </recipe>
 
-<recipe name="woodArrowSlitHalf" count="1">
-	<ingredient name="wood" count="10"/>
-</recipe>
-
 <recipe name="woodHalf" count="1">
 	<ingredient name="wood" count="10"/>
 </recipe>
