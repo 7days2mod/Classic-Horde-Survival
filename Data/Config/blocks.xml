@@ -14076,6 +14076,7 @@ kind of free
 </block>
  <block id="1980" name="chickenCoop">
 	<property name="DescriptionKey" value="chickenCoopDesc"/>
+	<property name="LightOpacity" value="0"/>
     <property name="Material" value="wood_weak" />
     <property name="Shape" value="Half" />
     <property name="Texture" value="196,241,272,272,272,272" />
@@ -14090,6 +14091,7 @@ kind of free
   </block>
 <block id="1981" name="chickenCoop2">
 	<property name="CustomIcon" value="chickenCoop" />
+	<property name="LightOpacity" value="0"/>
     <property name="Material" value="wood_weak" />
     <property name="Shape" value="Half" />
     <property name="Texture" value="196,241,272,272,272,272" />
@@ -14109,6 +14111,7 @@ kind of free
   </block>
 <block id="1982" name="chickenNest">
     <property name="Class" value="Loot" />
+	<property name="LightOpacity" value="0"/>
     <property name="Material" value="wood_weak" />
     <property name="Shape" value="Ext3dModel" />
     <property name="Mesh" value="models" />
@@ -14119,6 +14122,7 @@ kind of free
   </block>
   <block id="1983" name="animalSnare">
 	<property name="DescriptionKey" value="animalSnareDesc"/>
+	<property name="LightOpacity" value="0"/>
 	<property name="Material" value="snare" />
 	<property name="Shape" value="Plate" />
 	<property name="Texture" value="196" />
@@ -14130,6 +14134,7 @@ kind of free
 </block>
 <block id="1984" name="animalbaitedsnare">
 	<property name="CustomIcon" value="animalSnare" />
+	<property name="LightOpacity" value="0"/>
 	<property name="Material" value="snare" />
 	<property name="Shape" value="Plate" />
 	<property name="Texture" value="196" />
@@ -14144,6 +14149,7 @@ kind of free
 </block>
 <block id="1985" name="BaitedSnareCaptured">
 	<property name="CustomIcon" value="animalSnare" />
+	<property name="LightOpacity" value="0"/>
 	<property name="Class" value="Loot" />
 	<property name="LootList" value="91" />
 	<property name="Material" value="wood" />
