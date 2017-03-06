@@ -204,7 +204,6 @@
 		<entity name="zombieNurse4" />
 		
 		<entity name="ZombieRavager" />
-		<entity name="ZombieKenny" />
 		<entity name="ZombieTrucker" />
 		
 		<entity name="ZombieSurvivorMale" />
