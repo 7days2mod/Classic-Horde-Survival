@@ -9099,7 +9099,7 @@ which does not exist, yet. -->
 		<property name="PartType" value="Stock" />
 		<property name="Weight" value="10" />
 		<property class="Attributes">
-		<property name="DegradationRate" value="10,10" />
+		<property name="DegradationRate" value="5,5" />
 		<property name="DegradationMax" value="700,4000" />
 	</property>
 	<property name="EconomicValue" value="875" />
@@ -9109,6 +9109,7 @@ which does not exist, yet. -->
 		<property name="DescriptionKey" value="partsChokeDesc"/>
 		<property class="Attributes">
 		<property name="Accuracy" value="1, 0.01" />
+		<property name="DegradationMax" value="700,4000" />
 		</property>
 	<property name="EconomicValue" value="875" />
 	</item>
