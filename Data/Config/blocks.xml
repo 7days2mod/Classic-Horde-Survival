@@ -3656,38 +3656,42 @@ group desc for stuff like metal siding
 	<property name="IsTerrainDecoration" value="true" />
 	<property name="LootList" value="9" />
 	<property name="LightOpacity" value="0" />
-	<drop event="Harvest" name="cloth" count="2" />
-	<drop event="Destroy" name="cloth" count="1" />
+	<drop event="Destroy" name="cntBackpack01" count="1" />
 </block>
 
 <block id="424" name="cntBackpack02">
 	<property name="Extends" value="cntBackpack01" />
 	<property name="Model" value="LootContainers/backpack02" param1="main_mesh" />
 	<property name="LightOpacity" value="0" />
+	<drop event="Destroy" name="cntBackpack02" count="1" />
 </block>
 
 <block id="425" name="cntBackpack03">
 	<property name="Extends" value="cntBackpack01" />
 	<property name="Model" value="LootContainers/backpack03" param1="main_mesh" />
 	<property name="LightOpacity" value="0" />
+	<drop event="Destroy" name="cntBackpack03" count="1" />
 </block>
 
 <block id="426" name="cntDuffle01">
 	<property name="Extends" value="cntBackpack01" />
 	<property name="Model" value="LootContainers/duffle01" param1="main_mesh" />
 	<property name="LightOpacity" value="0" />
+	<drop event="Destroy" name="cntDuffle01" count="1" />
 </block>
 
 <block id="427" name="cntSportsBag01">
 	<property name="Extends" value="cntBackpack01" />
 	<property name="Model" value="LootContainers/sports_bag01" param1="main_mesh" />
 	<property name="LightOpacity" value="0" />
+	<drop event="Destroy" name="cntSportsBag01" count="1" />
 </block>
 
 <block id="428" name="cntSportsBag02">
 	<property name="Extends" value="cntBackpack01" />
 	<property name="Model" value="LootContainers/sports_bag02" param1="main_mesh" />
 	<property name="LightOpacity" value="0" />
+	<drop event="Destroy" name="cntSportsBag02" count="1" />
 </block>
 
 <block id="429" name="cntPurse01">
@@ -3695,7 +3699,7 @@ group desc for stuff like metal siding
 	<property name="Model" value="LootContainers/purse01" param1="main_mesh" />
 	<property name="LightOpacity" value="0" />
 	<property name="LootList" value="48" />
-	<drop event="Destroy" count="0" />
+	<drop event="Destroy" name="cntPurse01" count="1" />
 </block>
 
 <block id="430" name="barbedFence">
