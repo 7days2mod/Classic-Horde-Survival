@@ -6473,7 +6473,7 @@ which does not exist, yet. -->
 		<property name="Gain_water" value="0" />
 		<property name="Gain_wellness" value="1.6" />
 		<property name="Sound_start" value="UseActions/player_drinking" />
-		<!-- jar from cooking food <property name="Create_item" value="emptyJar" /> -->
+		<property name="Create_item" value="bowl" />
 		<property name="Buff" value="stewWarming,eatFood_26_Trigger" />
 	</property>
 	<property name="Smell" value="exLargeSmell" />
